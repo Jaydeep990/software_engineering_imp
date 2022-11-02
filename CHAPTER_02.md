@@ -10,10 +10,10 @@
   - Extreme Programming contributes increasing employee satisfaction and retention.
 -----------------------------------------------------------------------------
 ## 2.Discuss SCRUM as agile software development process model. [07]
-http://gtu-paper-solution.com/Paper-Solution/SoftwareEngineering-2160701/Agile%20Development/Summer-2017/Question-2c
+- http://gtu-paper-solution.com/Paper-Solution/SoftwareEngineering-2160701/Agile%20Development/Summer-2017/Question-2c
 -----------------------------------------------------------------------------
 ## 3.Explain Agile Development in detail. [07]
-http://gtu-paper-solution.com/Paper-Solution/SoftwareEngineering-2160701/Agile%20Development/Winter-2017/Question-1b
+- http://gtu-paper-solution.com/Paper-Solution/SoftwareEngineering-2160701/Agile%20Development/Winter-2017/Question-1b
 -----------------------------------------------------------------------------
 ## 4.What is Agile Manifesto? [03]
  - The Agile Manifesto is a document that sets out the key values and principles behind the Agile philosophy and serves to help development teams work more efficiently and sustainably.
